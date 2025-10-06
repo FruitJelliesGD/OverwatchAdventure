@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"meng","characterIndex":0,"characterName":"mengzou","classId":2,"equips":[1,15],"faceIndex":0,"faceName":"meng","traits":[],"initialLevel":1,"maxLevel":10,"name":"Ameng","nickname":"蒙神","note":" <Starting JP: 100>","profile":"昔日的破坏球之神，现在是个普通小主播。"},
+{"id":2,"battlerName":"deng","characterIndex":0,"characterName":"dengzou","classId":3,"equips":[2,2],"faceIndex":0,"faceName":"deng","traits":[],"initialLevel":1,"maxLevel":10,"name":"Kyo","nickname":"老登","note":" <Starting JP: 100>","profile":"一名似乎上了年纪的香醇枪辅，视财如命。"},
+{"id":3,"battlerName":"jinmu","characterIndex":0,"characterName":"jinmuzou","classId":1,"equips":[3,13],"faceIndex":0,"faceName":"jinmu","traits":[],"initialLevel":1,"maxLevel":10,"name":"Jinmu","nickname":"金哥","note":" <Starting JP: 100>","profile":"酷似藏狐的好脾气虎虎，子龙子龙世无双！"},
+{"id":4,"battlerName":"lengsa","characterIndex":0,"characterName":"lengsazou","classId":4,"equips":[4,17],"faceIndex":0,"faceName":"lengsa","traits":[],"initialLevel":1,"maxLevel":10,"name":"Lengsa","nickname":"S级辅助","note":" <Starting JP: 100>","profile":"暂别自己的触辣舞，临时和你们探险的冷神。"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
