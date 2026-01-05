@@ -1,0 +1,32 @@
+﻿Wood Floor A|木の床A
+Wood Floor B|木の床B
+Rug A|じゅうたんA
+Rug B|じゅうたんB
+Hole A (Wood Floor)|穴A（木の床）
+Raised Stone A (Wood Floor C)|石段A（石床C）
+Stone Floor A|石床A
+Table A|テーブルA
+Wood Floor C|木の床C
+Wood Floor D|木の床D
+Rug C|じゅうたんC
+Rug D|じゅうたんD
+Hole B (Wood Floor)|穴B（木の床）
+Raised Stone B (Wood Floor C)|石段B（石床C）
+Stone Floor A|石床A
+Table B|テーブルB
+Stone Floor A|石床A
+Stone Floor B|石床B
+Rug E|じゅうたんE
+Rug F|じゅうたんF
+Hole C (Stone Floor)|穴C（石の床）
+Raised Stone C (Wood Floor A)|石段C（石床A）
+Raised Stone D (Wood Floor B)|石段D（石床B）
+Table C|テーブルC
+Stone Floor C|石床C
+Stone Floor D|石床D
+Rug G|じゅうたんG
+Rug H|じゅうたんH
+Soil on Ground|床の汚れ
+Raised Stone E (Wood Floor A)|石段E（石床A）
+Table D|テーブルD
+Table E|テーブルE

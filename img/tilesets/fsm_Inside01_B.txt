@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Window Light A (4 Blocks)|窓の光A（四つ窓）
+Window Light B (6 Blocks, Arch)|窓の光B（アーチ型六つ窓）
+Window Light C (Lattice)|窓の光C（格子窓）
+Window Light D (Square)|窓の光D（四角窓）
+Window Light E (8 Blocks)|窓の光E（八つ窓）
+Window Light F (Large)|窓の光F（大型窓）
+Window Light F (Large)|窓の光F（大型窓）
+Window A|窓A
+Window A (Light)|窓A（光）
+Window A (Dark)|窓A（暗闇）
+Window B|窓B
+Window B (Light)|窓B（光）
+Window B (Dark)|窓B（暗闇）
+Window Light (H)|窓の光（横）
+Window Light (H, Cannot Walk)|窓の光（横・通行不可）
+Window A|窓A
+Window A (Light)|窓A（光）
+Window A (Dark)|窓A（暗闇）
+Window B|窓B
+Window B (Light)|窓B（光）
+Window B (Dark)|窓B（暗闇）
+Window Light (H)|窓の光（横）
+Window Light (H, cannot walk)|窓の光（横・通行不可）
+Window A|窓A
+Window A (Light)|窓A（光）
+Window A (Dark)|窓A（暗闇）
+Window B|窓B
+Window Light G (6 Blocks)|窓の光G（六つ窓）
+Window B (Dark)|窓B（暗闇）
+Window Light (H)|窓の光（横）
+Window Light (H)|窓の光（横）
+Window C|窓C
+Window C (Light)|窓C（光）
+Window C (Curtain)|窓C（カーテン）
+Window C (Curtain)|窓C（カーテン）
+Window D|窓D
+Window D (Light)|窓D（光）
+Window E|窓E
+Window E (Light)|窓E（光）
+Window C|窓C
+Window C (Light)|窓C（光）
+Window C (Curtain)|窓C（カーテン）
+Window C (Curtain)|窓C（カーテン）
+Window D|窓D
+Window D (Light)|窓D（光）
+Window E|窓E
+Window E (Light)|窓E（光）
+Window F|窓F
+Window F (Light)|窓F（光）
+Window F (Dark)|窓F（暗闇）
+Window G|窓G
+Window G (Light)|窓G（光）
+Window G (Dark)|窓G（暗闇）
+Window D (Dark)|窓D（暗闇）
+Window E (Dark)|窓E（暗闇）
+Window F|窓F
+Window F (Light)|窓F（光）
+Window F (Dark)|窓F（暗闇）
+Window G|窓G
+Window G (Light)|窓G（光）
+Window G (Dark)|窓G（暗闇）
+Window D (Dark)|窓D（暗闇）
+Window E (Dark)|窓E（暗闇）
+Large Window|大型窓
+Large Window|大型窓
+Large Window (Light)|大型窓（光）
+Large Window (Light)|大型窓（光）
+Large Window (Dark)|大型窓（暗闇）
+Large Window (Dark)|大型窓（暗闇）
+Window H|窓H
+Window H (Curtain)|窓H（カーテン）
+Large Window|大型窓
+Large Window|大型窓
+Large Window (Light)|大型窓（光）
+Large Window (Light)|大型窓（光）
+Large Window (Dark)|大型窓（暗闇）
+Large Window (Dark)|大型窓（暗闇）
+Window H|窓H
+Window H (Curtain)|窓H（カーテン）
+Stained Glass Window A (Light)|ステンドグラスA（光）
+Stained Glass Window A|ステンドグラスA
+Stained Glass Window A (Dark)|ステンドグラスA（暗闇）
+Stained Glass Window B (Light)|ステンドグラスB（光）
+Stained Glass Window B|ステンドグラスB
+Stained Glass Window B (Dark)|ステンドグラスB（暗闇）
+Stained Glass Window Light (Left)|ステンドグラスの光（左）
+Stained Glass Window Light (Right)|ステンドグラスの光（右）
+Stained Glass Window A (Light)|ステンドグラスA（光）
+Stained Glass Window A|ステンドグラスA
+Stained Glass Window A (Dark)|ステンドグラスA（暗闇）
+Stained Glass Window B (Light)|ステンドグラスB（光）
+Stained Glass Window B|ステンドグラスB
+Stained Glass Window B (Dark)|ステンドグラスB（暗闇）
+Stained Glass Window Light (Left)|ステンドグラスの光（左）
+Stained Glass Window Light (Right)|ステンドグラスの光（右）
+Stained Glass Window A (Light)|ステンドグラスA（光）
+Stained Glass Window A|ステンドグラスA
+Stained Glass Window A (Dark)|ステンドグラスA（暗闇）
+Stained Glass Window B (Light)|ステンドグラスB（光）
+Stained Glass Window B|ステンドグラスB
+Stained Glass Window B (Dark)|ステンドグラスB（暗闇）
+Stained Glass Window Light (Left)|ステンドグラスの光（左）
+Stained Glass Window Light (Right)|ステンドグラスの光（右）
+Stained Glass Window Light A|ステンドグラスの光A
+Shadow (Cannot Walk)|影（通行不可）
+|
+|
+Stained Glass Window D|ステンドグラスD
+Stained Glass Window D|ステンドグラスD
+Stained Glass Window D (Dark)|ステンドグラスD（暗闇）
+Stained Glass Window D (Dark)|ステンドグラスD（暗闇）
+Stained Glass Window C|ステンドグラスC
+Stained Glass Window C|ステンドグラスC
+Stained Glass Window C (Dark)|ステンドグラスC（暗闇）
+Stained Glass Window C (Dark)|ステンドグラスC（暗闇）
+Stained Glass Window D|ステンドグラスD
+Stained Glass Window D|ステンドグラスD
+Stained Glass Window D (Dark)|ステンドグラスD（暗闇）
+Stained Glass Window D (Dark)|ステンドグラスD（暗闇）
+Stained Glass Window C|ステンドグラスC
+Stained Glass Window C|ステンドグラスC
+Stained Glass Window C (Dark)|ステンドグラスC（暗闇）
+Stained Glass Window C (Dark)|ステンドグラスC（暗闇）
+Stained Glass Window D|ステンドグラスD
+Stained Glass Window D|ステンドグラスD
+Stained Glass Window D (Dark)|ステンドグラスD（暗闇）
+Stained Glass Window D (Dark)|ステンドグラスD（暗闇）
+Stained Glass Window Light B|ステンドグラスの光B
+Stained Glass Window Light B|ステンドグラスの光B
+Signboard|立て看板
+Signboard (Item Shop)|立て看板（道具屋）
+Signboard (Pub)|立て看板（酒場）
+Signboard (Cafe)|立て看板（カフェ）
+Signboard (Inn)|立て看板（宿屋）
+Signboard (Weapon Shop)|立て看板（武器屋）
+Exit|出口
+Stained Glass Window Light C|ステンドグラスの光C
+Signboard (Armor Shop)|立て看板（防具屋）
+Signboard (Weapon & Armor Shop)|立て看板（武器・防具屋）
+Signboard (Magic Shop)|立て看板（魔法屋）
+Signboard (Accessory Shop)|立て看板（アクセサリーショップ）
+Signboard (Coin Shop)|立て看板（コインショップ）
+Signboard (Pharmacy)|立て看板（薬屋）
+Exit|出口
+Stained Glass Window Light C|ステンドグラスの光C
+Signboard (Bakery)|立て看板（パン屋）
+Signboard (Bookstore)|立て看板（本屋）
+Signboard (Restaurant)|立て看板（レストラン）
+Signboard (Church)|立て看板（教会）
+Signboard (Poster)|立て看板（張り紙）
+Signboard (Plain)|立て看板（無地）
+Exit Light|出口の光
+Entrance B (Top Half B)|入口B（上半分B）
+Entrance B (Top Half B)|入口B（上半分B）
+Entrance B (Top Half B)|入口B（上半分B）
+Shadow (Can Walk)|影（通行可能）
+Curtain|幕
+Curtain|幕
+Curtain|幕
+Entrance A|入口A
+Entrance B (Top Half A)|入口B（上半分A）
+Entrance B (Top Half A)|入口B（上半分A）
+Entrance B (Top Half A)|入口B（上半分A）
+Shadow (Cannot Walk)|影（通行不可）
+Curtain (Bottom Half A)|幕（下半分A）
+Curtain (Bottom Half A)|幕（下半分A）
+Curtain (Bottom Half A)|幕（下半分A）
+Entrance A|入口A
+Entrance B|入口B
+Entrance B|入口B
+Entrance B|入口B
+Shadow (Stairs, Cannot Walk)|影（階段・通行不可）
+Curtain (Bottom Half B)|幕（下半分B）
+Curtain (Bottom Half B)|幕（下半分B）
+Curtain (Bottom Half B)|幕（下半分B）
+Stairs A (Wood, Left)|階段A（木製・左）
+Stairs A (Wood, Center)|階段A（木製・中央）
+Stairs A (Wood, Right)|階段A（木製・右）
+Stairs B (Wood)|階段B（木製）
+Shadow (Stairs, Can Walk)|影（階段・通行可能）
+Shadow A|影A
+Beam|天井の梁
+Beam|天井の梁
+Stairs E (Stone, Left)|階段E（石・左）
+Stairs E (Stone, Center)|階段E（石・中央）
+Stairs E (Stone, Right)|階段E（石・右）
+Stairs F (Stone)|階段F（石）
+Shadow B|影B
+Shadow C|影C
+Beam|天井の梁
+Beam|天井の梁
+Banister|手すり
+Banister|手すり
+Shadow (Banister)|手すりの影
+Beam|天井の梁
+Beam|天井の梁
+Beam|天井の梁
+Beam (Lamp)|天井の梁（ランプ）
+Beam|天井の梁
+Banister|手すり
+Banister|手すり
+Shadow (Banister)|手すりの影
+Beam|天井の梁
+Beam|天井の梁
+Beam|天井の梁
+Beam (Lamp)|天井の梁（ランプ）
+Pillar (Beam)|梁の柱
+Banister|手すり
+Banister|手すり
+Shadow (Banister)|手すりの影
+Beam|天井の梁
+Beam|天井の梁
+Beam|天井の梁
+Beam|天井の梁
+Pillar (Beam)|梁の柱
+Banister|手すり
+Banister|手すり
+|
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Shadow (Banister)|手すりの影
+Banister|手すり
+Banister|手すり
+Shadow (Banister)|手すりの影
+Shadow (Banister, Cannot Walk)|手すりの影（通行不可）
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Ladder (Down)|はしご（下り）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Banister (Large Stairs)|手すり（大階段）
+Banister|手すり
+Banister (Large Stairs)|手すり（大階段）
+Stairs (Down)|階段（下り）
+Ladder|はしご
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Up)|大階段（上り）
+Large Stairs (Up)|大階段（上り）
+Large Stairs (Up)|大階段（上り）
+Stairs (Up)|階段（上り）
+Ladder|はしご
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Up)|大階段（上り）
+Large Stairs (Up)|大階段（上り）
+Large Stairs (Up)|大階段（上り）
+Stairs (Up)|階段（上り）
+Ladder|はしご
