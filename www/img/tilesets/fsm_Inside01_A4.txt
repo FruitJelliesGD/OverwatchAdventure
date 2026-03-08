@@ -1,0 +1,48 @@
+﻿Wall A (Wood)|壁A（木造）
+Wall B (Wood)|壁B（木造）
+Wall C (Wood)|壁C（木造）
+Wall D (Stone)|壁D（石）
+Wall E (Plaster)|壁E（白壁）
+Wall F (Plaster)|壁F（白壁）
+Wall G (Brick)|壁G（レンガ）
+Stage|舞台
+Wall A (Wood)|壁A（木造）
+Wall B (Wood)|壁B（木造）
+Wall C (Wood)|壁C（木造）
+Wall D (Stone)|壁D（石）
+Wall E (Plaster)|壁E（白壁）
+Wall F (Plaster)|壁F（白壁）
+Wall G (Brick)|壁G（レンガ）
+Interior Wall (Wood)|内装壁（木造）
+Wall H (Stone)|壁H（石）
+Stone Floor A|石床A
+Wall J (Stone)|壁J（石）
+Wall K (Stone)|壁K（石）
+Wall L (Stone)|壁L（石）
+Stone Floor E|石床E
+Wall N (Stone)|壁N（石）
+Wall O (Stone)|壁O（石）
+Wall H (Stone)|壁H（石）
+Wall I (Stone, Wall Detail)|壁I（石・壁装飾）
+Wall J (Stone)|壁J（石）
+Wall K (Stone)|壁K（石）
+Wall L (Stone)|壁L（石）
+Wall M (Brick)|壁M（レンガ）
+Wall N (Stone)|壁N（石）
+Wall O (Stone)|壁O（石）
+|
+|
+|
+|
+|
+|
+|
+|
+Wall P (Wood)|壁P（木造）
+Wall Q (Wood)|壁Q（木造）
+Wall R (Wood)|壁R（木造）
+Wall S (Stone)|壁S（石）
+Wall T (Plaster)|壁T（白壁）
+Wall U (Stone)|壁U（石）
+Wall V (Wood)|壁V（木造）
+Wall W (Wood)|壁W（木造）

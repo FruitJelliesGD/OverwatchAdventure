@@ -1,0 +1,256 @@
+﻿Plate A|皿A
+Plates B|皿B
+Plates C|皿C
+Fruit Bowl|フルーツ盛り合わせ
+Cup|カップ
+Teapot|ポット
+Cup & Teapot|カップとポット
+Chilled Bottle|冷えたボトル
+Pint Mug|ジョッキ
+Pint Mug & Ale Bottle|ジョッキと瓶
+Ale Bottle A|瓶A
+Ale Bottles B|瓶B
+Glass|グラス
+Glass & Bottle|グラスとボトル
+Bottle A|ボトルA
+Bottles B|ボトルB
+Notes & Pen A (Bottom)|メモとペンA（下）
+Notes & Pen D (Right)|メモとペンD（右）
+Book A|本A
+Book B|本B
+Book C|本C
+Books D|本D
+Books E|本E
+Scattered Notes|散らばったメモ
+Notes & Pen B (Top)|メモとペンB（上）
+Notes & Pen C (Left)|メモとペンC（左）
+Book F|本F
+Map|地図
+Small Box A|小箱A
+Letter Case|レターケース
+Scrolls|巻物
+Small Box B|小箱B
+Pen|ペン
+Desk Lamp A|卓上ランプA
+Desk Lamp B|卓上ランプB
+Vase A|花瓶A
+Vase B|花瓶B
+Vase C|花瓶C
+Vase D|花瓶D
+Rugs|じゅうたん
+Tray A|トレイA
+Tray B (Accessories A)|トレイB（アクセサリーA）
+Tray C (Accessories B)|トレイC（アクセサリーB）
+Tray D (Medicine Bottles)|トレイD（薬瓶）
+Tray E (Vegetables)|トレイE（野菜）
+Tray F (Herb)|トレイF（薬草）
+Medicine Bottle|薬瓶
+Milk Can|ミルク缶
+Colander A|ザルA
+Colanders B|ザルB
+Hourglass|砂時計
+Scale|天秤
+Mortar & Pestle|乳鉢と乳棒
+Flask|フラスコ
+Small Boxes C|小箱C
+Jewelry Boxes|ジュエリーボックス
+Colander C (Fishes A)|ザルC（魚A）
+Colander D (Fishes B)|ザルD（魚B）
+Sack D|麻袋D
+Sack E|麻袋E
+Basket F (Bread A)|バスケットF（パンA）
+Basket G (Bread B)|バスケットG（パンB）
+Basket J|バスケットJ
+Basket K (Flowers)|バスケットK（花）
+Colander E (Vegetables A)|ザルE（野菜A）
+Colander F (Vegetables B)|ザルF（野菜B）
+Sack F|麻袋F
+Sack G|麻袋G
+Basket H (Bread C)|バスケットH（パンC）
+Basket I (Bread D)|バスケットI（パンD）
+Basket L (Fruits)|バスケットL（果実）
+Basket M (Bread E)|バスケットM（パンE）
+Calendar|スケジュール表
+Calendar|スケジュール表
+Notice Board A|掲示板A
+Notice Board B|掲示板B
+Notice Board B|掲示板B
+Notice Board B|掲示板B
+Chair C (Bottom)|背もたれ椅子C（下向き）
+Chair C (Top)|背もたれ椅子C（上向き）
+Calendar|スケジュール表
+Calendar|スケジュール表
+Notice Board A|掲示板A
+Notice Board B|掲示板B
+Notice Board B|掲示板B
+Notice Board B|掲示板B
+Chair C (Bottom)|背もたれ椅子C（下向き）
+Chair C (Top)|背もたれ椅子C（上向き）
+Sword A|剣A
+Swords B|剣B
+Sword C|剣C
+Sword C|剣C
+Axe|斧
+Spear|槍
+Spear|槍
+Knives|短剣
+Simple Shelf A (Helmet & Gauntlet)|防具棚A
+Simple Shelf A (Helmet & Gauntlet)|防具棚A
+Bows|弓
+Quiver|矢筒
+Shield A|盾A
+Shield B|盾B
+Shield (H, Left)|盾（横・左）
+Shield (H, Right)|盾（横・右）
+Simple Shelf B (Armor)|防具棚B
+Simple Shelf B (Armor)|防具棚B
+Shoes|靴
+Boots|ブーツ
+Men's Clothing (Hanging)|男物の服（壁掛け）
+Women's Clothing (Hanging)|女物の服（壁掛け）
+Men's Adventure Clothing (Hanging)|男物の冒険服（壁掛け）
+Women's Adventure Clothing (Hanging)|女物の冒険服（壁掛け）
+Hatrack A|帽子掛けA
+Hatrack B|帽子掛けB
+Men's Adventure Clothing|男物の冒険服
+Women's Adventure Clothing|女物の冒険服
+Magician's Robe|魔法使いのローブ
+Adventure Clothing (Cloak)|冒険服（マント）
+Armor|鎧
+Helmet & Armor (Full Set)|兜と鎧（フルセット）
+Hatrack A|帽子掛けA
+Hatrack B|帽子掛けB
+Men's Adventure Clothing|男物の冒険服
+Women's Adventure Clothing|女物の冒険服
+Magician's Robe|魔法使いのローブ
+Adventure Clothing (Cloak)|冒険服（マント）
+Armor|鎧
+Helmet & Armor (Full Set)|兜と鎧（フルセット）
+Spears (Stand)|槍（スタンド）
+Wands (Stand)|杖（スタンド）
+Swords (Stand)|剣（スタンド）
+Scrolls (Stand)|巻物（スタンド）
+Stand A|スタンドA
+Broom|ほうき
+Barrel (Herb A)|薬草の樽A
+Barrel (Herb B)|薬草の樽B
+Spears (Stand)|槍（スタンド）
+Wands (Stand)|杖（スタンド）
+Swords (Stand)|剣（スタンド）
+Scrolls (Stand)|巻物（スタンド）
+Stand B|スタンドB
+Broom|ほうき
+Barrel (Herb A)|薬草の樽A
+Barrel (Herb B)|薬草の樽B
+Store Shelf D|商品棚D
+Store Shelf E|商品棚E
+Store Shelf F|商品棚F
+Medicine Shelf|薬品棚
+Medicine Shelf|薬品棚
+Sundries Shelf|雑貨の棚
+Sundries Shelf|雑貨の棚
+Sundries Shelf|雑貨の棚
+Store Shelf D|商品棚D
+Store Shelf E|商品棚E
+Store Shelf F|商品棚F
+Bottle Shelf|ボトル棚
+Bottle Shelf|ボトル棚
+Bread Shelf|パンの棚
+Bread Shelf|パンの棚
+Bread Shelf|パンの棚
+Store Shelf D|商品棚D
+Store Shelf E|商品棚E
+Store Shelf F|商品棚F
+Sundries Shelf|雑貨棚
+Sundries Shelf|雑貨棚
+Bread Shelf|パンの棚
+Bread Shelf|パンの棚
+Bread Shelf|パンの棚
+Display shelf A|陳列棚A
+Display shelf B|陳列棚B
+Display shelf C|陳列棚C
+Display shelf D|陳列棚D
+Sundries Shelf (V, Left)|雑貨棚（縦・左）
+Sundries Shelf (V, Right)|雑貨棚（縦・右）
+Bread Shelf (V, Left)|パンの棚（縦・左）
+Bread Shelf (V, Right)|パンの棚（縦・右）
+Display shelf A|陳列棚A
+Display shelf B|陳列棚B
+Display shelf C|陳列棚C
+Display shelf D|陳列棚D
+Sundries Shelf (V, Left)|雑貨棚（縦・左）
+Sundries Shelf (V, Right)|雑貨棚（縦・右）
+Bread Shelf (V, Left)|パンの棚（縦・左）
+Bread Shelf (V, Right)|パンの棚（縦・右）
+Display shelf A|陳列棚A
+Display shelf B|陳列棚B
+Display shelf C|陳列棚C
+Display shelf D|陳列棚D
+Sundries Shelf (V, Left)|雑貨棚（縦・左）
+Sundries Shelf (V, Right)|雑貨棚（縦・右）
+Bread Shelf (V, Left)|パンの棚（縦・左）
+Bread Shelf (V, Right)|パンの棚（縦・右）
+Storage Case|収納ケース
+Storage Box|収納箱
+Crate G|木箱G
+Stacked Crates C|積まれた木箱C
+Crate I (Metals A)|木箱I（金属材A）
+Crate (Products)|木箱（商品）
+Crate (Products)|木箱（商品）
+Basket N (Bread F)|バスケットN（パンF）
+Storage Basket|収納カゴ
+Storage Box|収納箱
+Crate H|木箱H
+Stacked Crates C|積まれた木箱C
+Crate J (Metals B)|木箱J（金属材B）
+Crate (Products)|木箱（商品）
+Crate (Products)|木箱（商品）
+Basket N (Bread F)|バスケットN（パンF）
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Magic Cauldron|魔法の釜
+Magic Cauldron|魔法の釜
+Magic Cauldron|魔法の釜
+Sconce (Left)|壁掛け燭台（左）
+Sconce (Right)|壁掛け燭台（右）
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Magic Cauldron|魔法の釜
+Magic Cauldron|魔法の釜
+Magic Cauldron|魔法の釜
+Sconce (Left)|壁掛け燭台（左）
+Sconce (Right)|壁掛け燭台（右）
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Magic Cauldron|魔法の釜
+Magic Cauldron|魔法の釜
+Magic Cauldron|魔法の釜
+Straw Block|藁ブロック
+Stacked Straw Blocks|積まれた藁ブロック
+Blacksmith Kiln A|鍛冶窯A
+Blacksmith Kiln A|鍛冶窯A
+Blacksmith Kiln B|鍛冶窯B
+Blacksmith Kiln B|鍛冶窯B
+Blacksmith's Table A|金床A
+Blacksmith's Table B|金床B
+Haystack (Upper Left B)|干し草の山（左上B）
+Stacked Straw Blocks|積まれた藁ブロック
+Blacksmith Kiln A|鍛冶窯A
+Blacksmith Kiln A|鍛冶窯A
+Blacksmith Kiln B|鍛冶窯B
+Blacksmith Kiln B|鍛冶窯B
+Scrap Metal|鉄くず
+Large Basin|水桶
+Haystack (Upper Left A)|干し草の山（左上A）
+Haystack|干し草の山
+Blacksmith Kiln (Bottom A)|鍛冶窯（下A）
+Blacksmith Kiln (Bottom A)|鍛冶窯（下A）
+Blacksmith Kiln (Bottom B)|鍛冶窯（下B）
+Blacksmith Kiln (Bottom B)|鍛冶窯（下B）
+Blacksmith Kiln (Bottom C)|鍛冶窯（下C）
+Blacksmith Kiln (Bottom C)|鍛冶窯（下C）
+Haystack|干し草の山
+Haystack|干し草の山

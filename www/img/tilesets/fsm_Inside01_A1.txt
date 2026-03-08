@@ -1,0 +1,19 @@
+﻿Canal A|水路A
+Sparkling Water Surface|きれいな水面
+Waterweed A|水草A
+Waterweed B (Flowers)|水草B（花）
+Bathing Spot|水浴び場
+|
+|
+|
+Canal B|水路B
+Waterfall (Stone Wall)|滝（石壁）
+Pool|水場
+Waterfall (Stone Wall)|滝（石壁）
+|
+|
+|
+|
+|
+|
+|

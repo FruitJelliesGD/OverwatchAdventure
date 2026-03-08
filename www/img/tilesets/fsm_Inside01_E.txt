@@ -1,0 +1,256 @@
+﻿Wall A|壁A
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall D|壁D
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Wall D|壁D
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Shadow (Slanting Wall)|影（斜め壁）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Shadow (Slanting Wall)|影（斜め壁）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Wall D|壁D
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Wall A|壁A
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall D|壁D
+Slanting Wall (Wall D)|斜め壁（壁D）
+Slanting Wall (Wall D)|斜め壁（壁D）
+Wall D|壁D
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall A|壁A
+Wall D (Triangle)|壁D（三角形）
+Wall D (Triangle)|壁D（三角形）
+Wall D (Triangle)|壁D（三角形）
+Wall D|壁D
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall A|壁A
+Wall D (Triangle)|壁D（三角形）
+Wall D (Triangle)|壁D（三角形）
+Wall D (Triangle)|壁D（三角形）
+Wall D|壁D
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall A|壁A
+Wall D (Triangle)|壁D（三角形）
+Wall D (Triangle)|壁D（三角形）
+Wall D (Triangle)|壁D（三角形）
+Wall D|壁D
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+|
+Wall D (Triangle)|壁D（三角形）
+Wall D (Triangle)|壁D（三角形）
+Wall D (Triangle)|壁D（三角形）
+Bridge (V)|橋（縦）
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall A (Triangle)|壁A（三角形）
+Wall K (Bottom)|壁K（下端）
+Wall K (Bottom)|壁K（下端）
+Wall K (Bottom)|壁K（下端）
+Wall K (Bottom)|壁K（下端）
+Bridge (V)|橋（縦）
+Wall H|壁H
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (V)|橋（縦）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Shadow (Slanting Wall)|影（斜め壁）
+Wall H|壁H
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Wall I (Bottom)|壁I（下端）
+Wall I (Bottom)|壁I（下端）
+Wall I (Bottom)|壁I（下端）
+Shadow (Wall I)|影（壁I）
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+|
+Large Stairs (Up, Right)|大階段（上り・右向き）
+Large Stairs (Up, Right)|大階段（上り・右向き）
+Large Stairs (Up, Left)|大階段（上り・左向き）
+Large Stairs (Up, Left)|大階段（上り・左向き）
+|
+Stable Partition A|馬房の仕切りA
+Stable Partition (V)|馬房の仕切り（縦）
+Large Stairs (Up, Right)|大階段（上り・右向き）
+Large Stairs (Up, Right)|大階段（上り・右向き）
+Large Stairs (Up, Right)|大階段（上り・右向き）
+Large Stairs (Up, Left)|大階段（上り・左向き）
+Large Stairs (Up, Left)|大階段（上り・左向き）
+Large Stairs (Up, Left)|大階段（上り・左向き）
+Stable Partition A|馬房の仕切りA
+Stable Partition (V)|馬房の仕切り（縦）
+Large Stairs (Up, Right)|大階段（上り・右向き）
+Large Stairs (Up, Right)|大階段（上り・右向き）
+Large Stairs (Up, Right)|大階段（上り・右向き）
+Large Stairs (Up, Left)|大階段（上り・左向き）
+Large Stairs (Up, Left)|大階段（上り・左向き）
+Large Stairs (Up, Left)|大階段（上り・左向き）
+Stable Partition B|馬房の仕切りB
+Stable Partition (V)|馬房の仕切り（縦）
+Large Stairs (Down, Left)|大階段（下り・左向き）
+Large Stairs (Down, Left)|大階段（下り・左向き）
+Large Stairs (Down, Right)|大階段（下り・右向き）
+Large Stairs (Down, Right)|大階段（下り・右向き）
+Shadow (Waterfall, Stone Wall)|影（滝・石壁）
+|
+Stable Partition B|馬房の仕切りB
+Stable Partition (V)|馬房の仕切り（縦）
+Large Stairs (Down, Left)|大階段（下り・左向き）
+Large Stairs (Down, Left)|大階段（下り・左向き）
+Large Stairs (Down, Right)|大階段（下り・右向き）
+Large Stairs (Down, Right)|大階段（下り・右向き）
+Stand Microphone|スタンドマイク
+Stage Steps|舞台の階段
+Stable Partition (Gate)|馬栓棒
+Stable Partition (V)|馬房の仕切り（縦）
+Large Stairs (Down, Left)|大階段（下り・左向き）
+Large Stairs (Down, Left)|大階段（下り・左向き）
+Large Stairs (Down, Right)|大階段（下り・右向き）
+Large Stairs (Down, Right)|大階段（下り・右向き）
+Stand Microphone|スタンドマイク
+Stage Steps|舞台の階段
+Ledge (Stage, Left, Shadow)|舞台の段差（左・影）
+Ledge (Stage)|舞台の段差
+Church Table|教会机
+Church Table (Center A)|教会机（中央A）
+Church Table|教会机
+Church Table (Center B)|教会机（中央B）
+Candle Stand|燭台
+Ledge (Stage, Left)|舞台の段差（左）
+Ledge (Stage, Center)|舞台の段差（中央）
+Ledge (Stage, Right)|舞台の段差（右）
+Church Table|教会机
+Church Table (Center A)|教会机（中央A）
+Church Table|教会机
+Church Table (Center B)|教会机（中央B）
+Candle Stand|燭台
+Bench B (Bottom)|ベンチB（下向き）
+Bench B (Bottom)|ベンチB（下向き）
+Bench B (Bottom)|ベンチB（下向き）
+Stone Pillar (Plant A)|石の柱（植物A）
+Bench A (V)|ベンチA（縦）
+Altar|祭壇
+Altar|祭壇
+Altar|祭壇
+Bench B (Bottom)|ベンチB（下向き）
+Bench B (Bottom)|ベンチB（下向き）
+Bench B (Bottom)|ベンチB（下向き）
+Stone Pillar (Flowers)|石の柱（花）
+Bench A (V)|ベンチA（縦）
+Altar|祭壇
+Altar|祭壇
+Altar|祭壇
+Bench B (Top)|ベンチB（上向き）
+Bench B (Top)|ベンチB（上向き）
+Bench B (Top)|ベンチB（上向き）
+Stone Pillar|石の柱
+Bench A (V)|ベンチA（縦）
+Bench A (H)|ベンチA（横）
+Bench A (H)|ベンチA（横）
+Bench A (H)|ベンチA（横）
+Bench B (Top)|ベンチB（上向き）
+Bench B (Top)|ベンチB（上向き）
+Bench B (Top)|ベンチB（上向き）
+Stone Pillar|石の柱
+Statue C|石像C
+Statue D|石像D
+Church Symbol|教会のシンボル
+Coffin|棺
+Pipe Organ|パイプオルガン
+Pipe Organ|パイプオルガン
+Pipe Organ|パイプオルガン
+Stone Pillar|石の柱
+Statue C|石像C
+Statue D|石像D
+Church Symbol|教会のシンボル
+Coffin|棺
+Pipe Organ|パイプオルガン
+Pipe Organ|パイプオルガン
+Pipe Organ|パイプオルガン
+Decorative Pillar (Wall H)|装飾柱（壁H）
+Stone Tablet A|石版A
+Wall Detail A (Wall H)|壁装飾A（壁H）
+Wall Detail C (Wall H)|壁装飾C（壁H）
+Thick Pillar|太い柱
+Pipe Organ|パイプオルガン
+Pipe Organ|パイプオルガン
+Pipe Organ|パイプオルガン
+Decorative Pillar (Wall H)|装飾柱（壁H）
+Stone Tablet B|石版B
+Wall Detail B (Wall H)|壁装飾B（壁H）
+Wall Detail C (Wall H)|壁装飾C（壁H）
+Thick Pillar|太い柱
+Relief|レリーフ
+Relief|レリーフ
+Relief|レリーフ
+Decorative Pillar (Wall H)|装飾柱（壁H）
+Stone Tablet B|石版B
+Wall Detail B (Wall H)|壁装飾B（壁H）
+Wall Detail C (Wall H)|壁装飾C（壁H）
+Thick Pillar|太い柱
+Relief|レリーフ
+Relief|レリーフ
+Relief|レリーフ

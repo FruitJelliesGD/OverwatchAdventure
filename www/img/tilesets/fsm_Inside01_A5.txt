@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Wood Floor A|木の床A
+Wood Floor C|木の床C
+Stone Floor A|石床A
+Stone Floor F|石床F
+Wood Floor E|木の床E
+Wood Floor F|木の床F
+Stage|舞台
+Transparent|透明
+Dirt|土
+Wood Floor B|木の床B
+Stone Floor D|石床D
+Stone Floor F|石床F
+Wood Floor G|木の床G
+Wood Floor H|木の床H
+Stage|舞台
+Ledge A (Wood, Left)|段差A（木造・左）
+Ledge A (Wood, Center)|段差A（木造・中央）
+Ledge A (Wood, Right)|段差A（木造・右）
+Ledge A (Wood, Center, Shadow)|段差A（木造・中央・影）
+Ledge B (Stone, Left)|段差B（石・左）
+Ledge B (Stone, Center)|段差B（石・中央）
+Ledge B (Stone, Right)|段差B（石・右）
+Ledge B (Stone, Center, Shadow)|段差B（石・中央・影）
+Ledge C (Wood, Left)|段差C（木造・左）
+Ledge C (Wood, Center)|段差C（木造・中央）
+Ledge C (Wood, Right)|段差C（木造・右）
+Ledge C (Wood, Center, Shadow)|段差C（木造・中央・影）
+Ledge D (Plaster, Left)|段差D（白壁・左）
+Ledge D (Plaster, Center)|段差D（白壁・中央）
+Ledge D (Plaster, Right)|段差D（白壁・右）
+Ledge D (Plaster, Center, Shadow)|段差D（白壁・中央・影）
+Wood Floor D|木の床D
+Wood Floor D|木の床D
+Wood Floor D|木の床D
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wood Floor D|木の床D
+Wood Floor D|木の床D
+Wood Floor D|木の床D
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wood Floor D|木の床D
+Wood Floor D|木の床D
+Wood Floor D|木の床D
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Wall X (Plaster)|壁X（白壁）
+Stone Floor G|石床G
+Stone Floor G|石床G
+Stone Floor G|石床G
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Stone Floor G|石床G
+Stone Floor G|石床G
+Stone Floor G|石床G
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Stone Floor G|石床G
+Stone Floor G|石床G
+Stone Floor G|石床G
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall Y (Plaster)|壁Y（白壁）
+Wall A (Wood)|壁A（木造）
+Wall B (Wood)|壁B（木造）
+Wall D (Stone)|壁D（石）
+Wall E (Plaster)|壁E（白壁）
+Wall E (Plaster)|壁E（白壁）
+Wall F (Plaster)|壁F（白壁）
+Wall G (Brick)|壁G（レンガ）
+Stone Floor H|石床H
+Wall A (Wood)|壁A（木造）
+Wall B (Wood)|壁B（木造）
+Wall D (Stone)|壁D（石）
+Wall E (Plaster)|壁E（白壁）
+Wall E (Plaster)|壁E（白壁）
+Wall F (Plaster)|壁F（白壁）
+Wall G (Brick)|壁G（レンガ）
+Stone Floor H|石床H
+Wall A (Wood)|壁A（木造）
+Wall B (Wood)|壁B（木造）
+Wall D (Stone)|壁D（石）
+Wall E (Plaster)|壁E（白壁）
+Wall E (Plaster)|壁E（白壁）
+Wall F (Plaster)|壁F（白壁）
+Wall G (Brick)|壁G（レンガ）
+Stone Floor I|石床I
+Stairs A (Wood, Left)|階段A（木製・左）
+Stairs A (Wood, Center)|階段A（木製・中央）
+Stairs A (Wood, Right)|階段A（木製・右）
+Stairs B (Wood)|階段B（木製）
+Stairs C (Rug D, Left)|階段C（じゅうたんD・左）
+Stairs C (Rug D, Center)|階段C（じゅうたんD・中央）
+Stairs C (Rug D, Right)|階段C（じゅうたんD・右）
+Stairs D (Rug D)|階段D（じゅうたんD）
+Stairs E (Stone, Left)|階段E（石・左）
+Stairs E (Stone, Center)|階段E（石・中央）
+Stairs E (Stone, Right)|階段E（石・右）
+Stairs F (Stone)|階段F（石）
+Stairs G (Rug F, Left)|階段G（じゅうたんF・左）
+Stairs G (Rug F, Center)|階段G（じゅうたんF・中央）
+Stairs G (Rug F, Right)|階段G（じゅうたんF・右）
+Stairs H (Rug F)|階段H（じゅうたんF）
+Stairs I (Rug B, Left)|階段I（じゅうたんB・左）
+Stairs I (Rug B, Center)|階段I（じゅうたんB・中央）
+Stairs I (Rug B, Right)|階段I（じゅうたんB・右）
+Stairs J (Rug B)|階段J（じゅうたんB）
+Stairs K (Rug H, Left)|階段K（じゅうたんH・左）
+Stairs K (Rug H, Center)|階段K（じゅうたんH・中央）
+Stairs K (Rug H, Right)|階段K（じゅうたんH・右）
+Stairs L (Rug H)|階段L（じゅうたんH）

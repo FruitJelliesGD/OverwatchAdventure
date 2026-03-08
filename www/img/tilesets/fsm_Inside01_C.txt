@@ -1,0 +1,256 @@
+﻿Stool A|椅子A
+Chair A (Bottom)|背もたれ椅子A（下向き）
+Chair A (Top)|背もたれ椅子A（上向き）
+Chair B (Bottom)|背もたれ椅子B（下向き）
+Chair B (Top)|背もたれ椅子B（上向き）
+Partition|ついたて
+Partition|ついたて
+Partition|ついたて
+Stool B|椅子B
+Chair A (Right)|背もたれ椅子A（右向き）
+Chair A (Left)|背もたれ椅子A（左向き）
+Chair B (Right)|背もたれ椅子B（右向き）
+Chair B (Left)|背もたれ椅子B（左向き）
+Partition|ついたて
+Partition|ついたて
+Partition|ついたて
+Stool C|椅子C
+Simple Shelf (Books)|簡易棚（本）
+Simple Shelf (Jars)|簡易棚（瓶）
+Simple Shelf (Tableware)|簡易棚（食器）
+Sacks (Wall)|壁掛けの袋
+Dry Garlic|干しニンニク
+Rope|ロープ
+Wall Mount Planter|壁掛けプランター
+Simple Shelf|簡易棚
+Simple Shelf (Small Boxes)|簡易棚（小箱）
+Simple Shelf (Seasoning)|簡易棚（調味料）
+Simple Shelf (Bottles)|簡易棚（ボトル）
+Dry Flowers A|ドライフラワーA
+Dry Flowers B|ドライフラワーB
+Sickles|鎌
+Wall Mount Planter|壁掛けプランター
+Barrel A|樽A
+Barrel C|樽C
+Barrel C|樽C
+Pot A|壺A
+Pot B|壺B
+Basket B|カゴB
+Basket C|カゴC
+Sack|袋
+Barrel B|樽B
+Barrel C|樽C
+Barrel C|樽C
+Barrel D|樽D
+Basket A|カゴA
+Basket D|カゴD
+Basket E|カゴE
+Firewood|薪
+Top board A|天板A
+Top board A (Double)|天板A（両面）
+Top board A (Books)|天板A（本）
+Top board A (Boxes & Sucks)|天板A（箱と袋）
+Top board B|天板B
+Top board B|天板B
+Top board B (Double)|天板B（両面）
+Top board B (Double)|天板B（両面）
+Closet|クローゼット
+Chest of Drawers|タンス
+Bookshelf A|本棚A
+Sundries Shelf A|雑貨棚A
+Bookshelf B|本棚B
+Bookshelf B|本棚B
+Sundries Shelf B|雑貨棚B
+Sundries Shelf B|雑貨棚B
+Closet|クローゼット
+Chest of Drawers|タンス
+Bookshelf A|本棚A
+Sundries Shelf A|雑貨棚A
+Bookshelf B|本棚B
+Bookshelf B|本棚B
+Sundries Shelf B|雑貨棚B
+Sundries Shelf B|雑貨棚B
+Shelf (V)|棚（縦）
+Store Shelf A|商品棚A
+Cabinet|戸棚
+Cabinet|戸棚
+Store Shelf B|商品棚B
+Store Shelf B|商品棚B
+Store Shelf C|商品棚C
+Store Shelf C|商品棚C
+Shelf (V)|棚（縦）
+Store Shelf A|商品棚A
+Cabinet|戸棚
+Cabinet|戸棚
+Store Shelf B|商品棚B
+Store Shelf B|商品棚B
+Store Shelf C|商品棚C
+Store Shelf C|商品棚C
+Shelf (V, Bottom Half A)|棚（縦・下半分A）
+Bottle Shelf A|ボトル棚A
+Bottle Shelf B|ボトル棚B
+Bottle Shelf B|ボトル棚B
+Chest A|チェストA
+Chest B|チェストB
+Wine Rack|ワインセラー
+Safe|金庫
+Shelf (V, Bottom Half A)|棚（縦・下半分A）
+Bottle Shelf A|ボトル棚A
+Bottle Shelf B|ボトル棚B
+Bottle Shelf B|ボトル棚B
+Chest A|チェストA
+Chest B|チェストB
+Wine Rack|ワインセラー
+Safe|金庫
+Shelf (V, Bottom Half B)|棚（縦・下半分B）
+Stuffed Doll|ぬいぐるみ
+Books|本
+Sundries|雑貨
+Photo Frame|写真立て
+Pot|壺
+Pitcher|水差し
+Dresser|鏡台
+Chest C|チェストC
+Chest D|チェストD
+Chest D|チェストD
+Chest E|チェストE
+Chest E|チェストE
+Chest E|チェストE
+Table|テーブル
+Dresser|鏡台
+Chest C|チェストC
+Chest D|チェストD
+Chest D|チェストD
+Chest E|チェストE
+Chest E|チェストE
+Chest E|チェストE
+Table|テーブル
+Dresser|鏡台
+Painting A|絵A
+Painting B|絵B
+Painting C|絵C
+Clock|時計
+Stacked Crates A (Upper left)|積まれた木箱A（左上）
+Stacked Crates A (Upper right)|積まれた木箱A（右上）
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Painting D|絵D
+Painting E|絵E
+Painting F|絵F
+Clock|時計
+Stacked Crates A (Lower left)|積まれた木箱A（左下）
+Stacked Crates A (Lower right)|積まれた木箱A（右下）
+Stacked Crates B|積まれた木箱B
+Stacked Crates B|積まれた木箱B
+Map|地図
+Tapestry|タペストリー
+Posted Notice|貼り紙
+Sconce|壁掛け燭台
+Crate A|木箱A
+Crate D|木箱D
+Crate B|木箱B
+Crate E|木箱E
+Sack A|麻袋A
+Sacks C|麻袋C
+Stacked Sacks|積まれた麻袋
+Stacked Sacks|積まれた麻袋
+Crate C|木箱C
+Crate F|木箱F
+Dish Cabinet (V, Left)|食器棚（縦・左向き）
+Dish Cabinet (V, Right)|食器棚（縦・右向き）
+Sacks B|麻袋B
+Sacks C|麻袋C
+Stacked Sacks|積まれた麻袋
+Stacked Sacks|積まれた麻袋
+Dish Cabinet|食器棚
+Dish Cabinet|食器棚
+Dish Cabinet (V, Left)|食器棚（縦・左向き）
+Dish Cabinet (V, Right)|食器棚（縦・右向き）
+Cooking Utensils|調理器具
+Kitchen Table|キッチンテーブル
+Kitchen Table|キッチンテーブル
+Kitchen Table|キッチンテーブル
+Dish Cabinet|食器棚
+Dish Cabinet|食器棚
+Dish Cabinet (V, Left)|食器棚（縦・左向き）
+Dish Cabinet (V, Right)|食器棚（縦・右向き）
+Cooking Utensils|調理器具
+Kitchen Table|キッチンテーブル
+Kitchen Table|キッチンテーブル
+Kitchen Table|キッチンテーブル
+Dish Cabinet|食器棚
+Dish Cabinet|食器棚
+Dish Cabinet (V, Left)|食器棚（縦・左向き）
+Dish Cabinet (V, Right)|食器棚（縦・右向き）
+Kitchen Counter B|調理台B
+Kitchen Counter C|調理台C
+Oven B|かまどB
+Oven C|かまどC
+Oven C|かまどC
+Kiln|窯
+Kiln|窯
+Kiln|窯
+Sink|流し
+Kitchen Counter A|調理台A
+Oven A|かまどA
+Oven C|かまどC
+Oven C|かまどC
+Kiln|窯
+Kiln (Center A)|窯（中央A）
+Kiln (Center A)|窯（中央A）
+Sink|流し
+Kitchen Counter A|調理台A
+Oven A|かまどA
+Oven C|かまどC
+Oven C|かまどC
+Kiln|窯
+Kiln|窯
+Kiln|窯
+Fireplace A|暖炉A
+Fireplace A|暖炉A
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Pot (Oven C)|鍋（かまどC）
+Pan (Oven C)|フライパン（かまどC）
+Kiln (Center B)|窯（中央B）
+Kiln (Center B)|窯（中央B）
+Fireplace A|暖炉A
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Lattice|ラティス
+Lattice|ラティス
+Lattice|ラティス
+Lattice|ラティス
+Fireplace A|暖炉A
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Lattice|ラティス
+Lattice|ラティス
+Lattice|ラティス
+Lattice|ラティス
+Bed A|ベッドA
+Bed B|ベッドB
+Bed C|ベッドC
+Bed A (Cannot Walk)|ベッドA（通行不可）
+Bed A (Sneak Through)|ベッドA（すり抜け）
+Potted Plant A|植木鉢A
+Potted Plant B|植木鉢B
+Potted Plant C|植木鉢C
+Bed A|ベッドA
+Bed B|ベッドB
+Bed C|ベッドC
+Bed B (Cannot Walk)|ベッドB（通行不可）
+Bed B (Sneak Through)|ベッドB（すり抜け）
+Potted Plant A|植木鉢A
+Potted Plant B|植木鉢B
+Potted Plant C|植木鉢C
+Bed A|ベッドA
+Bed B|ベッドB
+Bed C|ベッドC
+Bed C (Cannot Walk)|ベッドC（通行不可）
+Bed C (Sneak Through)|ベッドC（すり抜け）
+Planter A|プランターA
+Potted Plant D|植木鉢D
+Planter B|プランターB
