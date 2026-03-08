@@ -1,9 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"meng","characterIndex":0,"characterName":"mengzou","classId":2,"equips":[1,15],"faceIndex":0,"faceName":"meng","traits":[],"initialLevel":1,"maxLevel":15,"name":"Ameng","nickname":"蒙神","note":" <Starting JP: 100>","profile":"从前的破坏球之神，现在的小主播。\n【攻击+魔攻】"},
-{"id":2,"battlerName":"deng","characterIndex":0,"characterName":"dengzou","classId":3,"equips":[2,2],"faceIndex":0,"faceName":"deng","traits":[],"initialLevel":1,"maxLevel":15,"name":"Kyo","nickname":"老登","note":" <Starting JP: 100>","profile":"一名似乎上了年纪的香醇枪辅，视财如命。【魔攻】"},
-{"id":3,"battlerName":"jinmu","characterIndex":0,"characterName":"jinmuzou","classId":1,"equips":[3,13],"faceIndex":0,"faceName":"jinmu","traits":[],"initialLevel":1,"maxLevel":15,"name":"Jinmu","nickname":"金哥","note":" <Starting JP: 100>","profile":"酷似藏狐的好脾气虎虎，子龙子龙世无双！【攻击】"},
-{"id":4,"battlerName":"lengsa","characterIndex":0,"characterName":"lengsazou","classId":4,"equips":[4,17],"faceIndex":0,"faceName":"lengsa","traits":[],"initialLevel":1,"maxLevel":15,"name":"Lengsa","nickname":"S级辅助","note":" <Starting JP: 100>","profile":"暂别自己的触辣舞，临时和你们探险的冷神。【魔攻】"},
-{"id":5,"battlerName":"guxue","characterIndex":0,"characterName":"guxue","classId":5,"equips":[17,30,22],"faceIndex":0,"faceName":"guxue","traits":[],"initialLevel":9,"maxLevel":15,"name":"Guxue","nickname":"雪神","note":"","profile":"世界级坦克，能让丁蒙涵跪下的男人。【攻击+魔攻】"},
-{"id":6,"battlerName":"liunian","characterIndex":0,"characterName":"liunian","classId":6,"equips":[15,40,22,0,0],"faceIndex":0,"faceName":"liunian","traits":[],"initialLevel":12,"maxLevel":15,"name":"Kaneki","nickname":"念念","note":"","profile":"一名中二白毛少年，有点傲娇，还有点……抖M？【攻击】"}
-]
